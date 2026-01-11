@@ -1,0 +1,140 @@
+C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ADDR_CALCULATE.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ADDR_CALCULATE.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module BRANCH_ADDR
+-- Compiling module JUMP_ADDR
+-- Compiling module MUX_PC_DECODE
+-- Compiling module TOP_DECODE_ADDR
+
+Top level modules:
+	TOP_DECODE_ADDR
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ALU_BIG_MODULE.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ALU_BIG_MODULE.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_BIG_MODULE
+-- Compiling module ALU_CONTROL
+-- Compiling module ALU
+
+Top level modules:
+	ALU_BIG_MODULE
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/CONTROL_UNIT.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/CONTROL_UNIT.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module CONTROL_UNIT
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/HAZARD_DETECTION.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/HAZARD_DETECTION.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module HAZARD_DETECTION_UNIT
+
+Top level modules:
+	HAZARD_DETECTION_UNIT
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ID_EX.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ID_EX.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ID_EX_REGISTER
+
+Top level modules:
+	ID_EX_REGISTER
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/DATA_MEMORY.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/DATA_MEMORY.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module DATA_MEMORY
+
+Top level modules:
+	DATA_MEMORY
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/IF_ID.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/IF_ID.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FLUSHCONTROL
+-- Compiling module IF_ID_REGISTER
+
+Top level modules:
+	FLUSHCONTROL
+	IF_ID_REGISTER
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/REGISTER_FILE.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/REGISTER_FILE.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module REGISTER_FILE
+-- Compiling module BIG_REGISTER
+-- Compiling module SIGNEXTEND
+-- Compiling module SHIFTLEFT2
+
+Top level modules:
+	BIG_REGISTER
+	SIGNEXTEND
+	SHIFTLEFT2
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/FORWARD_UNIT.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/FORWARD_UNIT.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FORWARDING_UNIT_DATA_HAZARD
+-- Compiling module FORWARDING_UNIT_CONTROL_HAZARD
+
+Top level modules:
+	FORWARDING_UNIT_DATA_HAZARD
+	FORWARDING_UNIT_CONTROL_HAZARD
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/testbench/tb_top_module.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/testbench/tb_top_module.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_top_module
+
+Top level modules:
+	tb_top_module
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MEM_WB.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MEM_WB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MEM_WB_REGISTER
+
+Top level modules:
+	MEM_WB_REGISTER
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/TOP_MODULE.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/TOP_MODULE.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module TOP_MODULE
+
+Top level modules:
+	TOP_MODULE
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_REG_DST.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_REG_DST.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MUX_REG_DST
+
+Top level modules:
+	MUX_REG_DST
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_WB.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_WB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MUX_WB
+
+Top level modules:
+	MUX_WB
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/PC.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/PC.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MUX_PC
+-- Compiling module PC
+-- Compiling module INSTRUCTION_MEMORY
+-- Compiling module PC_Add_4
+
+Top level modules:
+	MUX_PC
+	PC
+	INSTRUCTION_MEMORY
+	PC_Add_4
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/EX_MEM.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/EX_MEM.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module EX_MEM_REGISTER
+
+Top level modules:
+	EX_MEM_REGISTER
+
+} {} {}} C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_HAZARD_CONTROL.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_HAZARD_CONTROL.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MUX_HAZARD_CONTROL
+
+Top level modules:
+	MUX_HAZARD_CONTROL
+
+} {} {}}

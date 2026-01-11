@@ -1,0 +1,750 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1768152500
+V;einfT2iaY]EA:gYPHR8f2
+Z1 04 13 4 work tb_top_module fast 0
+=1-d4939025af4b-6963ddb3-339-6ef4
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1768152889
+VK;GF0dg`FYhMc7RYn9i4M2
+R1
+=1-d4939025af4b-6963df38-3aa-66a0
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+vALU
+Z4 !s110 1768152983
+!i10b 1
+!s100 QKF68b6oB9^BAN8XX[_@M1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4KTVDeCi^0zJ`<YT^R^P[3
+Z6 dC:/Users/Admin/Desktop/KTMT-2025-1-final/src
+Z7 w1768049923
+Z8 8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ALU_BIG_MODULE.v
+Z9 FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/ALU_BIG_MODULE.v
+!i122 34
+L0 137 26
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1768152983.000000
+Z13 !s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ALU_BIG_MODULE.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ALU_BIG_MODULE.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@l@u
+vALU_BIG_MODULE
+R4
+!i10b 1
+!s100 LM?8<l=RPKob1N>HGfJzG2
+R5
+IK;=0Df=DbO_gz7gX6W_AD3
+R6
+R7
+R8
+R9
+!i122 34
+L0 5 69
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+n@a@l@u_@b@i@g_@m@o@d@u@l@e
+vALU_CONTROL
+R4
+!i10b 1
+!s100 Ioi[^4DFA8>akHM[:OB>R3
+R5
+IRCn6S5O7`]HE^<D2j]TdL1
+R6
+R7
+R8
+R9
+!i122 34
+L0 79 54
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+n@a@l@u_@c@o@n@t@r@o@l
+vBIG_REGISTER
+Z16 !s110 1768153000
+!i10b 1
+!s100 ;PDWiCSnXanJAHA<n=he>0
+R5
+IG5c2OYCH@;c:GEVP5TP1Q0
+R6
+Z17 w1767145919
+Z18 8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/REGISTER_FILE.v
+Z19 FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/REGISTER_FILE.v
+!i122 47
+L0 67 71
+R10
+R11
+r1
+!s85 0
+31
+Z20 !s108 1768153000.000000
+Z21 !s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/REGISTER_FILE.v|
+Z22 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/REGISTER_FILE.v|
+!i113 0
+R15
+R2
+n@b@i@g_@r@e@g@i@s@t@e@r
+vBRANCH_ADDR
+R4
+!i10b 1
+!s100 1?On6[SW@SoaNf9cII^>@1
+R5
+I]2g8ofcMj9BQ>2GY<GBbd0
+R6
+R17
+Z23 8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ADDR_CALCULATE.v
+Z24 FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/ADDR_CALCULATE.v
+!i122 33
+L0 6 12
+R10
+R11
+r1
+!s85 0
+31
+R12
+Z25 !s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ADDR_CALCULATE.v|
+Z26 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ADDR_CALCULATE.v|
+!i113 0
+R15
+R2
+n@b@r@a@n@c@h_@a@d@d@r
+vCONTROL_UNIT
+R4
+!i10b 1
+!s100 `D2n`PnRI]=O80al06JM]3
+R5
+IM5am523RJ_nDezW:5`SJj0
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/CONTROL_UNIT.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/CONTROL_UNIT.v
+!i122 35
+L0 1 74
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/CONTROL_UNIT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/CONTROL_UNIT.v|
+!i113 0
+R15
+R2
+n@c@o@n@t@r@o@l_@u@n@i@t
+vDATA_MEMORY
+R4
+!i10b 1
+!s100 WDMh43O:j49K`dBRH@OoP2
+R5
+ICkR1fO;Bl:Pa`;NQ6z[NP0
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/DATA_MEMORY.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/DATA_MEMORY.v
+!i122 36
+L0 1 31
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/DATA_MEMORY.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/DATA_MEMORY.v|
+!i113 0
+R15
+R2
+n@d@a@t@a_@m@e@m@o@r@y
+vEX_MEM_REGISTER
+R4
+!i10b 1
+!s100 _N5iA2=LNN^3EED6S[SKF0
+R5
+IL8YICHmoNz3DZLh`j=0T11
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/EX_MEM.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/EX_MEM.v
+!i122 37
+L0 1 59
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/EX_MEM.v|
+!i113 0
+R15
+R2
+n@e@x_@m@e@m_@r@e@g@i@s@t@e@r
+vFLUSHCONTROL
+Z27 !s110 1768152984
+!i10b 1
+!s100 moH_ni4R_Q6BdZh`Ogfzk0
+R5
+Ih`g:3AzKTMT2KoJaVG8_c1
+R6
+R17
+Z28 8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/IF_ID.v
+Z29 FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/IF_ID.v
+!i122 41
+Z30 L0 1 10
+R10
+R11
+r1
+!s85 0
+31
+Z31 !s108 1768152984.000000
+Z32 !s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/IF_ID.v|
+Z33 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/IF_ID.v|
+!i113 0
+R15
+R2
+n@f@l@u@s@h@c@o@n@t@r@o@l
+vFORWARDING_UNIT_CONTROL_HAZARD
+R4
+!i10b 1
+!s100 EH2ggb2jBe>>_`IihZhK20
+R5
+IF><ZZ1Zc^=IZ2Bb@TTIdQ1
+R6
+R17
+Z34 8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/FORWARD_UNIT.v
+Z35 FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/FORWARD_UNIT.v
+!i122 38
+L0 49 40
+R10
+R11
+r1
+!s85 0
+31
+R12
+Z36 !s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/FORWARD_UNIT.v|
+Z37 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/FORWARD_UNIT.v|
+!i113 0
+R15
+R2
+n@f@o@r@w@a@r@d@i@n@g_@u@n@i@t_@c@o@n@t@r@o@l_@h@a@z@a@r@d
+vFORWARDING_UNIT_DATA_HAZARD
+R4
+!i10b 1
+!s100 g@`KBmjlC?B^ak?=VnJCP3
+R5
+Ic<]VJYDkk@2988ff27l4m3
+R6
+R17
+R34
+R35
+!i122 38
+L0 1 44
+R10
+R11
+r1
+!s85 0
+31
+R12
+R36
+R37
+!i113 0
+R15
+R2
+n@f@o@r@w@a@r@d@i@n@g_@u@n@i@t_@d@a@t@a_@h@a@z@a@r@d
+vHAZARD_DETECTION_UNIT
+R27
+!i10b 1
+!s100 3L4;Vg05hnV5Vl8fSl?]93
+R5
+I0MJdgF]Ph3AD3@0P8>N]63
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/HAZARD_DETECTION.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/HAZARD_DETECTION.v
+!i122 39
+L0 1 40
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/HAZARD_DETECTION.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/HAZARD_DETECTION.v|
+!i113 0
+R15
+R2
+n@h@a@z@a@r@d_@d@e@t@e@c@t@i@o@n_@u@n@i@t
+vID_EX_REGISTER
+R27
+!i10b 1
+!s100 AWEX;mA<LTR=3_Po:m<dF0
+R5
+ICoPEWmSA>[SSPLfl;LQdZ2
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ID_EX.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/ID_EX.v
+!i122 40
+L0 1 104
+R10
+R11
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/ID_EX.v|
+!i113 0
+R15
+R2
+n@i@d_@e@x_@r@e@g@i@s@t@e@r
+vIF_ID_REGISTER
+R27
+!i10b 1
+!s100 jkWHLN[h4JZcQX=]Tk[L62
+R5
+I;iO;?73Z=KicHKBVVKa^X1
+R6
+R17
+R28
+R29
+!i122 41
+L0 13 40
+R10
+R11
+r1
+!s85 0
+31
+R31
+R32
+R33
+!i113 0
+R15
+R2
+n@i@f_@i@d_@r@e@g@i@s@t@e@r
+vINSTRUCTION_MEMORY
+Z38 !s110 1768152999
+!i10b 1
+!s100 Pg]kz2zKDG2l=V8?XDmY^3
+R5
+I[2AJUA1LmFB_9MnB1<KkC0
+R6
+R17
+Z39 8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/PC.v
+Z40 FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/PC.v
+!i122 46
+L0 33 17
+R10
+R11
+r1
+!s85 0
+31
+Z41 !s108 1768152999.000000
+Z42 !s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/PC.v|
+Z43 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/PC.v|
+!i113 0
+R15
+R2
+n@i@n@s@t@r@u@c@t@i@o@n_@m@e@m@o@r@y
+vJUMP_ADDR
+R4
+!i10b 1
+!s100 R2czFM]JkFNL95;Gamf;K0
+R5
+IXkglY=fhS?Z>4bm1z94>V3
+R6
+R17
+R23
+R24
+!i122 33
+L0 23 9
+R10
+R11
+r1
+!s85 0
+31
+R12
+R25
+R26
+!i113 0
+R15
+R2
+n@j@u@m@p_@a@d@d@r
+vMEM_WB_REGISTER
+!s110 1768152985
+!i10b 1
+!s100 JK0bRfHMcWO98Q77cWP[Q3
+R5
+IF7U>>7^JE`S>=Be_BYIN`3
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MEM_WB.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/MEM_WB.v
+!i122 42
+L0 1 42
+R10
+R11
+r1
+!s85 0
+31
+!s108 1768152985.000000
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MEM_WB.v|
+!i113 0
+R15
+R2
+n@m@e@m_@w@b_@r@e@g@i@s@t@e@r
+vMUX_HAZARD_CONTROL
+!s110 1768152996
+!i10b 1
+!s100 [:MBZlXPQIY53zIgQ>o:22
+R5
+IC?JYKh8zRWk8njnML_bZn1
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_HAZARD_CONTROL.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_HAZARD_CONTROL.v
+!i122 43
+L0 1 36
+R10
+R11
+r1
+!s85 0
+31
+!s108 1768152996.000000
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_HAZARD_CONTROL.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_HAZARD_CONTROL.v|
+!i113 0
+R15
+R2
+n@m@u@x_@h@a@z@a@r@d_@c@o@n@t@r@o@l
+vMUX_PC
+R38
+!i10b 1
+!s100 b3fJhI:ijC;58Y@jF@N0I1
+R5
+I4Ha2I>=4Oh84K8Who2dY?0
+R6
+R17
+R39
+R40
+!i122 46
+Z44 L0 1 9
+R10
+R11
+r1
+!s85 0
+31
+R41
+R42
+R43
+!i113 0
+R15
+R2
+n@m@u@x_@p@c
+vMUX_PC_DECODE
+R4
+!i10b 1
+!s100 0kU8bJUQ00bEhRNbK[z9M2
+R5
+Im5W6EbE;FRUHe>Z<<TdFh1
+R6
+R17
+R23
+R24
+!i122 33
+L0 38 14
+R10
+R11
+r1
+!s85 0
+31
+R12
+R25
+R26
+!i113 0
+R15
+R2
+n@m@u@x_@p@c_@d@e@c@o@d@e
+vMUX_REG_DST
+R38
+!i10b 1
+!s100 YnX^XN[L72<n1nUfbP7HG2
+R5
+IRZG@ce94k4>foJ`E_WEan0
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_REG_DST.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_REG_DST.v
+!i122 44
+R30
+R10
+R11
+r1
+!s85 0
+31
+R41
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_REG_DST.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_REG_DST.v|
+!i113 0
+R15
+R2
+n@m@u@x_@r@e@g_@d@s@t
+vMUX_WB
+R38
+!i10b 1
+!s100 8B1lbDD6eCE9Y>H<?Co7P2
+R5
+I=?[G[L;MGQfhVC5FSVg9`3
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_WB.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_WB.v
+!i122 45
+R44
+R10
+R11
+r1
+!s85 0
+31
+R41
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_WB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/MUX_WB.v|
+!i113 0
+R15
+R2
+n@m@u@x_@w@b
+vPC
+R38
+!i10b 1
+!s100 fegV:R;F=GdZ[1^m5Ph5U1
+R5
+InSYTJSTag7C@;B`La]3ZR3
+R6
+R17
+R39
+R40
+!i122 46
+L0 11 21
+R10
+R11
+r1
+!s85 0
+31
+R41
+R42
+R43
+!i113 0
+R15
+R2
+n@p@c
+vPC_Add_4
+R38
+!i10b 1
+!s100 oLG1EWWl:lSa@PUcFe=FT1
+R5
+I2<ChWZcZBSd[1^TKohn=<3
+R6
+R17
+R39
+R40
+!i122 46
+L0 51 9
+R10
+R11
+r1
+!s85 0
+31
+R41
+R42
+R43
+!i113 0
+R15
+R2
+n@p@c_@add_4
+vREGISTER_FILE
+R16
+!i10b 1
+!s100 =FjK:>OZF7iC?Y0jAc89U1
+R5
+Ia5S4Pof_Vz_fOHCDQ66`k0
+R6
+R17
+R18
+R19
+!i122 47
+L0 9 50
+R10
+R11
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 0
+R15
+R2
+n@r@e@g@i@s@t@e@r_@f@i@l@e
+vSHIFTLEFT2
+R16
+!i10b 1
+!s100 :BEJ3]OScjlS[O==:d>961
+R5
+IS<E>kc[^mQ01m2FXOg:5o0
+R6
+R17
+R18
+R19
+!i122 47
+L0 151 6
+R10
+R11
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 0
+R15
+R2
+n@s@h@i@f@t@l@e@f@t2
+vSIGNEXTEND
+R16
+!i10b 1
+!s100 <chi_7bHejCiD6mZDz<EH2
+R5
+I7Db17QD]QIBNd1]k<Ig6G1
+R6
+R17
+R18
+R19
+!i122 47
+L0 141 7
+R10
+R11
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 0
+R15
+R2
+n@s@i@g@n@e@x@t@e@n@d
+vtb_top_module
+R16
+!i10b 1
+!s100 zaJR@AWzVE2C@2cXUW4na3
+R5
+I<oz:^nl[U@OZke[OW<Ve[1
+R6
+R17
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/testbench/tb_top_module.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/testbench/tb_top_module.v
+!i122 49
+L0 3 196
+R10
+R11
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/testbench/tb_top_module.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/testbench/tb_top_module.v|
+!i113 0
+R15
+R2
+vTOP_DECODE_ADDR
+R4
+!i10b 1
+!s100 ed_2;QUol`YCdh7QnR:Cl0
+R5
+IXg7<hHbReJzEECkL5WY=;3
+R6
+R17
+R23
+R24
+!i122 33
+L0 64 38
+R10
+R11
+r1
+!s85 0
+31
+R12
+R25
+R26
+!i113 0
+R15
+R2
+n@t@o@p_@d@e@c@o@d@e_@a@d@d@r
+vTOP_MODULE
+R16
+!i10b 1
+!s100 VOHOK`ofXn<IDTW?b89fd3
+R5
+I?P`?CI:ZegS^^;V;7;k0c0
+R6
+w1767146534
+8C:/Users/Admin/Desktop/KTMT-2025-1-final/src/TOP_MODULE.v
+FC:/Users/Admin/Desktop/KTMT-2025-1-final/src/TOP_MODULE.v
+!i122 48
+L0 1 453
+R10
+R11
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Admin/Desktop/KTMT-2025-1-final/src/TOP_MODULE.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/KTMT-2025-1-final/src/TOP_MODULE.v|
+!i113 0
+R15
+R2
+n@t@o@p_@m@o@d@u@l@e
